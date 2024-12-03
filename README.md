@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahlibx
 - 👀 I’m interested in developing my skills to work in tech for Disney!
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m a full stack developer
 - 💞️ I’m looking to collaborate on - nothing yet!
 - 📫 How to reach me sarahlib90@gmail.com
 - 😄 Pronouns: she/her
