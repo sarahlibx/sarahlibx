@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on - nothing yet!
 - 📫 How to reach me sarahlib90@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm a marathoner and a personal trainer.
+- ⚡ Fun fact: i'm a marathoner!
 
 <!---
 sarahlibx/sarahlibx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
